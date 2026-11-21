@@ -5,7 +5,7 @@ const OUTPUT = "top10-brasil.json";
 const providers = {
   prime: "amazon-prime",
   max: "hbo-max",
-  disney: "disney-plus",
+  disney: "disney",
   paramount: "paramount-plus",
   apple: "apple-tv"
 };
