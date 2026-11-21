@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T22:42:47.722Z",
+  "updated": "2026-11-21T23:06:07.415Z",
   "source": "FlixPatrol via FlareSolverr",
   "providers": {
     "prime": {
@@ -343,6 +343,92 @@
         {
           "rank": 10,
           "title": "The Proposal"
+        }
+      ]
+    },
+    "disney": {
+      "series": [
+        {
+          "rank": 1,
+          "title": "Percy Jackson and the Olympians"
+        },
+        {
+          "rank": 2,
+          "title": "The Remarried Empress"
+        },
+        {
+          "rank": 3,
+          "title": "Tokyo Revengers"
+        },
+        {
+          "rank": 4,
+          "title": "VisionQuest"
+        },
+        {
+          "rank": 5,
+          "title": "The Perfect Lie"
+        },
+        {
+          "rank": 6,
+          "title": "Loki"
+        },
+        {
+          "rank": 7,
+          "title": "Coven Academy"
+        },
+        {
+          "rank": 8,
+          "title": "Merry Berry Love"
+        },
+        {
+          "rank": 9,
+          "title": "All's Fair"
+        },
+        {
+          "rank": 10,
+          "title": "Perfect Crown"
+        }
+      ],
+      "movies": [
+        {
+          "rank": 1,
+          "title": "Avengers: Endgame"
+        },
+        {
+          "rank": 2,
+          "title": "Moana"
+        },
+        {
+          "rank": 3,
+          "title": "Toy Story 5"
+        },
+        {
+          "rank": 4,
+          "title": "Spider-Man: No Way Home"
+        },
+        {
+          "rank": 5,
+          "title": "Backrooms"
+        },
+        {
+          "rank": 6,
+          "title": "Home Alone"
+        },
+        {
+          "rank": 7,
+          "title": "The Grinch"
+        },
+        {
+          "rank": 8,
+          "title": "Rio"
+        },
+        {
+          "rank": 9,
+          "title": "Frozen"
+        },
+        {
+          "rank": 10,
+          "title": "Ratatouille"
         }
       ]
     }
