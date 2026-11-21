@@ -1,1 +1,350 @@
-{}
+{
+  "updated": "2026-11-21T22:42:47.722Z",
+  "source": "FlixPatrol via FlareSolverr",
+  "providers": {
+    "prime": {
+      "series": [
+        {
+          "rank": 1,
+          "title": "The Lord of the Rings: The Rings of Power"
+        },
+        {
+          "rank": 2,
+          "title": "The Chosen"
+        },
+        {
+          "rank": 3,
+          "title": "Campus Drivers"
+        },
+        {
+          "rank": 4,
+          "title": "Love in Disguise"
+        },
+        {
+          "rank": 5,
+          "title": "The Terminal List"
+        },
+        {
+          "rank": 6,
+          "title": "Off Campus"
+        },
+        {
+          "rank": 7,
+          "title": "Carrie"
+        },
+        {
+          "rank": 8,
+          "title": "Marília Mendonça: All the Feels"
+        },
+        {
+          "rank": 9,
+          "title": "Reacher"
+        },
+        {
+          "rank": 10,
+          "title": "Final Table"
+        }
+      ],
+      "movies": [
+        {
+          "rank": 1,
+          "title": "Perfect Liars"
+        },
+        {
+          "rank": 2,
+          "title": "Obsession"
+        },
+        {
+          "rank": 3,
+          "title": "The Mongoose"
+        },
+        {
+          "rank": 4,
+          "title": "Drive - The Pretenders"
+        },
+        {
+          "rank": 5,
+          "title": "Michael"
+        },
+        {
+          "rank": 6,
+          "title": "Apocalypse Z: New World"
+        },
+        {
+          "rank": 7,
+          "title": "We Live in Time"
+        },
+        {
+          "rank": 8,
+          "title": "Harry Potter and the Philosopher's Stone"
+        },
+        {
+          "rank": 9,
+          "title": "Madden"
+        },
+        {
+          "rank": 10,
+          "title": "Harry Potter and the Chamber of Secrets"
+        }
+      ]
+    },
+    "max": {
+      "series": [
+        {
+          "rank": 1,
+          "title": "Aeroporto: Área Restrita"
+        },
+        {
+          "rank": 2,
+          "title": "City of God: The Fight Rages On"
+        },
+        {
+          "rank": 3,
+          "title": "Georgie & Mandy's First Marriage"
+        },
+        {
+          "rank": 4,
+          "title": "MasterChef: Professionals (BR)"
+        },
+        {
+          "rank": 5,
+          "title": "La Promesa"
+        },
+        {
+          "rank": 6,
+          "title": "The Gilded Age"
+        },
+        {
+          "rank": 7,
+          "title": "Line of Fire"
+        },
+        {
+          "rank": 8,
+          "title": "War"
+        },
+        {
+          "rank": 9,
+          "title": "Naked and Afraid: Brazil"
+        },
+        {
+          "rank": 10,
+          "title": "Harry Potter: Wizards of Baking"
+        }
+      ],
+      "movies": [
+        {
+          "rank": 1,
+          "title": "The End of Oak Street"
+        },
+        {
+          "rank": 2,
+          "title": "The Sweetest Thing"
+        },
+        {
+          "rank": 3,
+          "title": "The Pout-Pout Fish"
+        },
+        {
+          "rank": 4,
+          "title": "Matilda"
+        },
+        {
+          "rank": 5,
+          "title": "One Way"
+        },
+        {
+          "rank": 6,
+          "title": "The Legend of Tarzan"
+        },
+        {
+          "rank": 7,
+          "title": "The Mule"
+        },
+        {
+          "rank": 8,
+          "title": "Call Me by Your Name"
+        },
+        {
+          "rank": 9,
+          "title": "Feed"
+        },
+        {
+          "rank": 10,
+          "title": "Last Man Standing"
+        }
+      ]
+    },
+    "paramount": {
+      "series": [
+        {
+          "rank": 1,
+          "title": "MobLand"
+        },
+        {
+          "rank": 2,
+          "title": "Tulsa King"
+        },
+        {
+          "rank": 3,
+          "title": "Dexter: Resurrection"
+        },
+        {
+          "rank": 4,
+          "title": "Dexter"
+        },
+        {
+          "rank": 5,
+          "title": "South Park"
+        },
+        {
+          "rank": 6,
+          "title": "Ghosts"
+        },
+        {
+          "rank": 7,
+          "title": "SpongeBob SquarePants"
+        },
+        {
+          "rank": 8,
+          "title": "Criminal Minds"
+        },
+        {
+          "rank": 9,
+          "title": "Yellowstone"
+        },
+        {
+          "rank": 10,
+          "title": "Marshals"
+        }
+      ],
+      "movies": [
+        {
+          "rank": 1,
+          "title": "Thieves Highway"
+        },
+        {
+          "rank": 2,
+          "title": "Drive Through Fire"
+        },
+        {
+          "rank": 3,
+          "title": "Scary Movie"
+        },
+        {
+          "rank": 4,
+          "title": "Exit Protocol"
+        },
+        {
+          "rank": 5,
+          "title": "A Score to Settle"
+        },
+        {
+          "rank": 6,
+          "title": "The Bayou"
+        },
+        {
+          "rank": 7,
+          "title": "Hungria: A Escolha de um Sonho"
+        },
+        {
+          "rank": 8,
+          "title": "Exit 8"
+        },
+        {
+          "rank": 9,
+          "title": "Top Gun: Maverick"
+        },
+        {
+          "rank": 10,
+          "title": "Jackass: Best and Last"
+        }
+      ]
+    },
+    "apple": {
+      "series": [
+        {
+          "rank": 1,
+          "title": "Nocturne"
+        },
+        {
+          "rank": 2,
+          "title": "12 12 12"
+        },
+        {
+          "rank": 3,
+          "title": "Ted Lasso"
+        },
+        {
+          "rank": 4,
+          "title": "Silo"
+        },
+        {
+          "rank": 5,
+          "title": "Dark Matter"
+        },
+        {
+          "rank": 6,
+          "title": "Slow Horses"
+        },
+        {
+          "rank": 7,
+          "title": "Stick"
+        },
+        {
+          "rank": 8,
+          "title": "Brothers"
+        },
+        {
+          "rank": 9,
+          "title": "Severance"
+        },
+        {
+          "rank": 10,
+          "title": "Shrinking"
+        }
+      ],
+      "movies": [
+        {
+          "rank": 1,
+          "title": "Sunshine"
+        },
+        {
+          "rank": 2,
+          "title": "Being Heumann"
+        },
+        {
+          "rank": 3,
+          "title": "Mayday"
+        },
+        {
+          "rank": 4,
+          "title": "F1"
+        },
+        {
+          "rank": 5,
+          "title": "Tenzing"
+        },
+        {
+          "rank": 6,
+          "title": "Matchbox"
+        },
+        {
+          "rank": 7,
+          "title": "Argylle"
+        },
+        {
+          "rank": 8,
+          "title": "The Instigators"
+        },
+        {
+          "rank": 9,
+          "title": "The Gorge"
+        },
+        {
+          "rank": 10,
+          "title": "The Proposal"
+        }
+      ]
+    }
+  }
+}
