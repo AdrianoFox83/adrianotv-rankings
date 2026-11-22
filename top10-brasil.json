@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T23:06:07.415Z",
+  "updated": "2026-11-22T09:41:01.328Z",
   "source": "FlixPatrol via FlareSolverr",
   "providers": {
     "prime": {
@@ -34,7 +34,7 @@
         },
         {
           "rank": 8,
-          "title": "Marília Mendonça: All the Feels"
+          "title": "Final Table"
         },
         {
           "rank": 9,
@@ -42,7 +42,7 @@
         },
         {
           "rank": 10,
-          "title": "Final Table"
+          "title": "Marília Mendonça: All the Feels"
         }
       ],
       "movies": [
@@ -60,11 +60,11 @@
         },
         {
           "rank": 4,
-          "title": "Drive - The Pretenders"
+          "title": "Michael"
         },
         {
           "rank": 5,
-          "title": "Michael"
+          "title": "Drive - The Pretenders"
         },
         {
           "rank": 6,
@@ -80,7 +80,7 @@
         },
         {
           "rank": 9,
-          "title": "Madden"
+          "title": "Love of Your Life"
         },
         {
           "rank": 10,
@@ -92,23 +92,23 @@
       "series": [
         {
           "rank": 1,
-          "title": "Aeroporto: Área Restrita"
-        },
-        {
-          "rank": 2,
-          "title": "City of God: The Fight Rages On"
-        },
-        {
-          "rank": 3,
-          "title": "Georgie & Mandy's First Marriage"
-        },
-        {
-          "rank": 4,
           "title": "MasterChef: Professionals (BR)"
         },
         {
+          "rank": 2,
+          "title": "Aeroporto: Área Restrita"
+        },
+        {
+          "rank": 3,
+          "title": "City of God: The Fight Rages On"
+        },
+        {
+          "rank": 4,
+          "title": "War"
+        },
+        {
           "rank": 5,
-          "title": "La Promesa"
+          "title": "Georgie & Mandy's First Marriage"
         },
         {
           "rank": 6,
@@ -116,19 +116,19 @@
         },
         {
           "rank": 7,
-          "title": "Line of Fire"
+          "title": "La Promesa"
         },
         {
           "rank": 8,
-          "title": "War"
-        },
-        {
-          "rank": 9,
           "title": "Naked and Afraid: Brazil"
         },
         {
+          "rank": 9,
+          "title": "Dragon Ball Super: Beerus"
+        },
+        {
           "rank": 10,
-          "title": "Harry Potter: Wizards of Baking"
+          "title": "Bake Off Brasil: Mão na Massa"
         }
       ],
       "movies": [
@@ -138,39 +138,39 @@
         },
         {
           "rank": 2,
-          "title": "The Sweetest Thing"
+          "title": "Insidious: Out of the Further"
         },
         {
           "rank": 3,
-          "title": "The Pout-Pout Fish"
+          "title": "O Advogado de Deus"
         },
         {
           "rank": 4,
-          "title": "Matilda"
+          "title": "The Pout-Pout Fish"
         },
         {
           "rank": 5,
-          "title": "One Way"
-        },
-        {
-          "rank": 6,
-          "title": "The Legend of Tarzan"
-        },
-        {
-          "rank": 7,
           "title": "The Mule"
         },
         {
+          "rank": 6,
+          "title": "Matilda"
+        },
+        {
+          "rank": 7,
+          "title": "The Sweetest Thing"
+        },
+        {
           "rank": 8,
-          "title": "Call Me by Your Name"
+          "title": "The Legend of Tarzan"
         },
         {
           "rank": 9,
-          "title": "Feed"
+          "title": "Call Me by Your Name"
         },
         {
           "rank": 10,
-          "title": "Last Man Standing"
+          "title": "The Good Liar"
         }
       ]
     },
@@ -178,43 +178,43 @@
       "series": [
         {
           "rank": 1,
-          "title": "MobLand"
+          "title": "UFC Fight Night"
         },
         {
           "rank": 2,
-          "title": "Tulsa King"
+          "title": "MobLand"
         },
         {
           "rank": 3,
-          "title": "Dexter: Resurrection"
+          "title": "Tulsa King"
         },
         {
           "rank": 4,
-          "title": "Dexter"
+          "title": "Dexter: Resurrection"
         },
         {
           "rank": 5,
-          "title": "South Park"
+          "title": "Dexter"
         },
         {
           "rank": 6,
-          "title": "Ghosts"
+          "title": "South Park"
         },
         {
           "rank": 7,
-          "title": "SpongeBob SquarePants"
+          "title": "Ghosts"
         },
         {
           "rank": 8,
-          "title": "Criminal Minds"
+          "title": "SpongeBob SquarePants"
         },
         {
           "rank": 9,
-          "title": "Yellowstone"
+          "title": "Lioness"
         },
         {
           "rank": 10,
-          "title": "Marshals"
+          "title": "Yellowstone"
         }
       ],
       "movies": [
@@ -240,15 +240,15 @@
         },
         {
           "rank": 6,
-          "title": "The Bayou"
+          "title": "Exit 8"
         },
         {
           "rank": 7,
-          "title": "Hungria: A Escolha de um Sonho"
+          "title": "The Bayou"
         },
         {
           "rank": 8,
-          "title": "Exit 8"
+          "title": "Hungria: A Escolha de um Sonho"
         },
         {
           "rank": 9,
@@ -256,7 +256,7 @@
         },
         {
           "rank": 10,
-          "title": "Jackass: Best and Last"
+          "title": "The Last Stand of Ellen Cole"
         }
       ]
     },
@@ -306,11 +306,11 @@
       "movies": [
         {
           "rank": 1,
-          "title": "Sunshine"
+          "title": "Being Heumann"
         },
         {
           "rank": 2,
-          "title": "Being Heumann"
+          "title": "Sunshine"
         },
         {
           "rank": 3,
@@ -334,15 +334,15 @@
         },
         {
           "rank": 8,
-          "title": "The Instigators"
-        },
-        {
-          "rank": 9,
           "title": "The Gorge"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Proposal"
+        },
+        {
+          "rank": 10,
+          "title": "The Instigators"
         }
       ]
     },
