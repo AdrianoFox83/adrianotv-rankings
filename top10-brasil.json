@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T10:00:37.223Z",
+  "updated": "2026-11-26T09:58:27.724Z",
   "source": "FlixPatrol via FlareSolverr",
   "providers": {
     "prime": {
@@ -10,11 +10,11 @@
         },
         {
           "rank": 2,
-          "title": "The Lord of the Rings: The Rings of Power"
+          "title": "Love in Disguise"
         },
         {
           "rank": 3,
-          "title": "Love in Disguise"
+          "title": "The Lord of the Rings: The Rings of Power"
         },
         {
           "rank": 4,
@@ -26,11 +26,11 @@
         },
         {
           "rank": 6,
-          "title": "Final Table"
+          "title": "Off Campus"
         },
         {
           "rank": 7,
-          "title": "Off Campus"
+          "title": "Final Table"
         },
         {
           "rank": 8,
@@ -42,7 +42,7 @@
         },
         {
           "rank": 10,
-          "title": "Marília Mendonça: All the Feels"
+          "title": "Sterling Point"
         }
       ],
       "movies": [
@@ -68,23 +68,23 @@
         },
         {
           "rank": 6,
-          "title": "Michael"
-        },
-        {
-          "rank": 7,
           "title": "Apocalypse Z: New World"
         },
         {
+          "rank": 7,
+          "title": "Michael"
+        },
+        {
           "rank": 8,
-          "title": "We Live in Time"
+          "title": "Harry Potter and the Prisoner of Azkaban"
         },
         {
           "rank": 9,
-          "title": "Harry Potter and the Philosopher's Stone"
+          "title": "We Live in Time"
         },
         {
           "rank": 10,
-          "title": "Harry Potter and the Prisoner of Azkaban"
+          "title": "Harry Potter and the Philosopher's Stone"
         }
       ]
     },
@@ -96,7 +96,7 @@
         },
         {
           "rank": 2,
-          "title": "Naked and Afraid: Brazil"
+          "title": "The Gilded Age"
         },
         {
           "rank": 3,
@@ -108,27 +108,27 @@
         },
         {
           "rank": 5,
-          "title": "The Gilded Age"
+          "title": "Naked and Afraid: Brazil"
         },
         {
           "rank": 6,
-          "title": "War"
-        },
-        {
-          "rank": 7,
-          "title": "Georgie & Mandy's First Marriage"
-        },
-        {
-          "rank": 8,
-          "title": "90 Day Fiancé: Before the 90 Days"
-        },
-        {
-          "rank": 9,
           "title": "La Promesa"
         },
         {
+          "rank": 7,
+          "title": "War"
+        },
+        {
+          "rank": 8,
+          "title": "Georgie & Mandy's First Marriage"
+        },
+        {
+          "rank": 9,
+          "title": "Mother"
+        },
+        {
           "rank": 10,
-          "title": "Get Jiro"
+          "title": "Next Level Chef"
         }
       ],
       "movies": [
@@ -142,11 +142,11 @@
         },
         {
           "rank": 3,
-          "title": "The Mule"
+          "title": "The Pout-Pout Fish"
         },
         {
           "rank": 4,
-          "title": "The Pout-Pout Fish"
+          "title": "The Mule"
         },
         {
           "rank": 5,
@@ -154,15 +154,15 @@
         },
         {
           "rank": 6,
-          "title": "The Good Liar"
+          "title": "Matilda"
         },
         {
           "rank": 7,
-          "title": "The Legend of Tarzan"
+          "title": "The Good Liar"
         },
         {
           "rank": 8,
-          "title": "Matilda"
+          "title": "The Legend of Tarzan"
         },
         {
           "rank": 9,
@@ -170,7 +170,7 @@
         },
         {
           "rank": 10,
-          "title": "The Sweetest Thing"
+          "title": "Armored"
         }
       ]
     },
@@ -190,7 +190,7 @@
         },
         {
           "rank": 4,
-          "title": "Marshals"
+          "title": "South Park"
         },
         {
           "rank": 5,
@@ -198,7 +198,7 @@
         },
         {
           "rank": 6,
-          "title": "South Park"
+          "title": "Marshals"
         },
         {
           "rank": 7,
@@ -206,11 +206,11 @@
         },
         {
           "rank": 8,
-          "title": "SpongeBob SquarePants"
+          "title": "Yellowstone"
         },
         {
           "rank": 9,
-          "title": "Yellowstone"
+          "title": "SpongeBob SquarePants"
         },
         {
           "rank": 10,
@@ -232,27 +232,27 @@
         },
         {
           "rank": 4,
-          "title": "Scary Movie"
-        },
-        {
-          "rank": 5,
-          "title": "Hungria: A Escolha de um Sonho"
-        },
-        {
-          "rank": 6,
           "title": "A Score to Settle"
         },
         {
-          "rank": 7,
-          "title": "Top Gun: Maverick"
+          "rank": 5,
+          "title": "Scary Movie"
         },
         {
-          "rank": 8,
+          "rank": 6,
           "title": "Exit Protocol"
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Hungria: A Escolha de um Sonho"
+        },
+        {
+          "rank": 8,
           "title": "The Bayou"
+        },
+        {
+          "rank": 9,
+          "title": "Top Gun: Maverick"
         },
         {
           "rank": 10,
@@ -322,7 +322,7 @@
         },
         {
           "rank": 5,
-          "title": "Matchbox"
+          "title": "Way of the Warrior Kid"
         },
         {
           "rank": 6,
@@ -330,15 +330,15 @@
         },
         {
           "rank": 7,
-          "title": "The Gorge"
+          "title": "Matchbox"
         },
         {
           "rank": 8,
-          "title": "Argylle"
+          "title": "The Gorge"
         },
         {
           "rank": 9,
-          "title": "The Proposal"
+          "title": "Argylle"
         },
         {
           "rank": 10,
@@ -358,11 +358,11 @@
         },
         {
           "rank": 3,
-          "title": "The Voice Brasil"
+          "title": "VisionQuest"
         },
         {
           "rank": 4,
-          "title": "VisionQuest"
+          "title": "The Voice Brasil"
         },
         {
           "rank": 5,
@@ -408,7 +408,7 @@
         },
         {
           "rank": 5,
-          "title": "Backrooms"
+          "title": "The Grinch"
         },
         {
           "rank": 6,
@@ -416,19 +416,19 @@
         },
         {
           "rank": 7,
-          "title": "The Grinch"
+          "title": "X-Men"
         },
         {
           "rank": 8,
-          "title": "How the Grinch Stole Christmas"
+          "title": "Rio 2"
         },
         {
           "rank": 9,
-          "title": "Frozen"
+          "title": "Rio"
         },
         {
           "rank": 10,
-          "title": "Rio"
+          "title": "How the Grinch Stole Christmas"
         }
       ]
     }
