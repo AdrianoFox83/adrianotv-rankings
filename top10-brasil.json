@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-26T09:58:27.724Z",
+  "updated": "2026-11-27T09:57:25.442Z",
   "source": "FlixPatrol via FlareSolverr",
   "providers": {
     "prime": {
       "series": [
         {
           "rank": 1,
-          "title": "The Chosen"
-        },
-        {
-          "rank": 2,
-          "title": "Love in Disguise"
-        },
-        {
-          "rank": 3,
           "title": "The Lord of the Rings: The Rings of Power"
         },
         {
+          "rank": 2,
+          "title": "The Chosen"
+        },
+        {
+          "rank": 3,
+          "title": "Love in Disguise"
+        },
+        {
           "rank": 4,
-          "title": "Campus Drivers"
+          "title": "Blade Runner 2099"
         },
         {
           "rank": 5,
-          "title": "The Terminal List"
+          "title": "Campus Drivers"
         },
         {
           "rank": 6,
-          "title": "Off Campus"
+          "title": "The Terminal List"
         },
         {
           "rank": 7,
-          "title": "Final Table"
+          "title": "Off Campus"
         },
         {
           "rank": 8,
-          "title": "Carrie"
-        },
-        {
-          "rank": 9,
           "title": "Reacher"
         },
         {
+          "rank": 9,
+          "title": "Carrie"
+        },
+        {
           "rank": 10,
-          "title": "Sterling Point"
+          "title": "Final Table"
         }
       ],
       "movies": [
@@ -76,15 +76,15 @@
         },
         {
           "rank": 8,
-          "title": "Harry Potter and the Prisoner of Azkaban"
+          "title": "Harry Potter and the Philosopher's Stone"
         },
         {
           "rank": 9,
-          "title": "We Live in Time"
+          "title": "Harry Potter and the Prisoner of Azkaban"
         },
         {
           "rank": 10,
-          "title": "Harry Potter and the Philosopher's Stone"
+          "title": "We Live in Time"
         }
       ]
     },
@@ -96,23 +96,23 @@
         },
         {
           "rank": 2,
-          "title": "The Gilded Age"
-        },
-        {
-          "rank": 3,
-          "title": "MasterChef: Professionals (BR)"
-        },
-        {
-          "rank": 4,
           "title": "Aeroporto: Área Restrita"
         },
         {
+          "rank": 3,
+          "title": "The Gilded Age"
+        },
+        {
+          "rank": 4,
+          "title": "MasterChef: Professionals (BR)"
+        },
+        {
           "rank": 5,
-          "title": "Naked and Afraid: Brazil"
+          "title": "La Promesa"
         },
         {
           "rank": 6,
-          "title": "La Promesa"
+          "title": "Naked and Afraid: Brazil"
         },
         {
           "rank": 7,
@@ -150,27 +150,27 @@
         },
         {
           "rank": 5,
-          "title": "O Advogado de Deus"
-        },
-        {
-          "rank": 6,
-          "title": "Matilda"
-        },
-        {
-          "rank": 7,
-          "title": "The Good Liar"
-        },
-        {
-          "rank": 8,
           "title": "The Legend of Tarzan"
         },
         {
+          "rank": 6,
+          "title": "O Advogado de Deus"
+        },
+        {
+          "rank": 7,
+          "title": "Matilda"
+        },
+        {
+          "rank": 8,
+          "title": "The Good Liar"
+        },
+        {
           "rank": 9,
-          "title": "Call Me by Your Name"
+          "title": "Armored"
         },
         {
           "rank": 10,
-          "title": "Armored"
+          "title": "Call Me by Your Name"
         }
       ]
     },
@@ -210,7 +210,7 @@
         },
         {
           "rank": 9,
-          "title": "SpongeBob SquarePants"
+          "title": "Criminal Minds"
         },
         {
           "rank": 10,
@@ -220,19 +220,19 @@
       "movies": [
         {
           "rank": 1,
-          "title": "Off the Grid"
+          "title": "Oscar Shaw"
         },
         {
           "rank": 2,
-          "title": "Thieves Highway"
+          "title": "Off the Grid"
         },
         {
           "rank": 3,
-          "title": "Drive Through Fire"
+          "title": "Thieves Highway"
         },
         {
           "rank": 4,
-          "title": "A Score to Settle"
+          "title": "Drive Through Fire"
         },
         {
           "rank": 5,
@@ -240,23 +240,23 @@
         },
         {
           "rank": 6,
-          "title": "Exit Protocol"
-        },
-        {
-          "rank": 7,
           "title": "Hungria: A Escolha de um Sonho"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "The Bayou"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Top Gun: Maverick"
         },
         {
+          "rank": 9,
+          "title": "Exit Protocol"
+        },
+        {
           "rank": 10,
-          "title": "Exit 8"
+          "title": "A Score to Settle"
         }
       ]
     },
@@ -264,35 +264,35 @@
       "series": [
         {
           "rank": 1,
-          "title": "12 12 12"
-        },
-        {
-          "rank": 2,
           "title": "Nocturne"
         },
         {
+          "rank": 2,
+          "title": "12 12 12"
+        },
+        {
           "rank": 3,
-          "title": "Ted Lasso"
+          "title": "Stick"
         },
         {
           "rank": 4,
-          "title": "Silo"
+          "title": "Ted Lasso"
         },
         {
           "rank": 5,
-          "title": "Dark Matter"
+          "title": "Silo"
         },
         {
           "rank": 6,
-          "title": "Slow Horses"
-        },
-        {
-          "rank": 7,
           "title": "Brothers"
         },
         {
+          "rank": 7,
+          "title": "Dark Matter"
+        },
+        {
           "rank": 8,
-          "title": "Stick"
+          "title": "Slow Horses"
         },
         {
           "rank": 9,
@@ -306,7 +306,7 @@
       "movies": [
         {
           "rank": 1,
-          "title": "Being Heumann"
+          "title": "Way of the Warrior Kid"
         },
         {
           "rank": 2,
@@ -318,11 +318,11 @@
         },
         {
           "rank": 4,
-          "title": "F1"
+          "title": "Being Heumann"
         },
         {
           "rank": 5,
-          "title": "Way of the Warrior Kid"
+          "title": "F1"
         },
         {
           "rank": 6,
@@ -338,11 +338,11 @@
         },
         {
           "rank": 9,
-          "title": "Argylle"
+          "title": "Snoopy Presents: 12 Days of Snoopy"
         },
         {
           "rank": 10,
-          "title": "Snoopy Presents: 12 Days of Snoopy"
+          "title": "Argylle"
         }
       ]
     },
@@ -362,31 +362,31 @@
         },
         {
           "rank": 4,
-          "title": "The Voice Brasil"
-        },
-        {
-          "rank": 5,
-          "title": "Outlander: Blood of My Blood"
-        },
-        {
-          "rank": 6,
           "title": "Loki"
         },
         {
+          "rank": 5,
+          "title": "The Voice Brasil"
+        },
+        {
+          "rank": 6,
+          "title": "Phony"
+        },
+        {
           "rank": 7,
-          "title": "Perfect Crown"
+          "title": "Outlander: Blood of My Blood"
         },
         {
           "rank": 8,
-          "title": "Coven Academy"
+          "title": "Perfect Crown"
         },
         {
           "rank": 9,
-          "title": "All's Fair"
+          "title": "Coven Academy"
         },
         {
           "rank": 10,
-          "title": "Tokyo Revengers"
+          "title": "All's Fair"
         }
       ],
       "movies": [
@@ -404,11 +404,11 @@
         },
         {
           "rank": 4,
-          "title": "Spider-Man: No Way Home"
+          "title": "X-Men"
         },
         {
           "rank": 5,
-          "title": "The Grinch"
+          "title": "Spider-Man: No Way Home"
         },
         {
           "rank": 6,
@@ -416,19 +416,19 @@
         },
         {
           "rank": 7,
-          "title": "X-Men"
+          "title": "The Grinch"
         },
         {
           "rank": 8,
-          "title": "Rio 2"
+          "title": "The Fantastic 4: First Steps"
         },
         {
           "rank": 9,
-          "title": "Rio"
+          "title": "Thunderbolts*"
         },
         {
           "rank": 10,
-          "title": "How the Grinch Stole Christmas"
+          "title": "Rio 2"
         }
       ]
     }
