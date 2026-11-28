@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T09:57:25.442Z",
+  "updated": "2026-11-28T09:43:30.623Z",
   "source": "FlixPatrol via FlareSolverr",
   "providers": {
     "prime": {
@@ -10,15 +10,15 @@
         },
         {
           "rank": 2,
-          "title": "The Chosen"
+          "title": "Blade Runner 2099"
         },
         {
           "rank": 3,
-          "title": "Love in Disguise"
+          "title": "The Chosen"
         },
         {
           "rank": 4,
-          "title": "Blade Runner 2099"
+          "title": "Love in Disguise"
         },
         {
           "rank": 5,
@@ -26,11 +26,11 @@
         },
         {
           "rank": 6,
-          "title": "The Terminal List"
+          "title": "Off Campus"
         },
         {
           "rank": 7,
-          "title": "Off Campus"
+          "title": "The Terminal List"
         },
         {
           "rank": 8,
@@ -80,11 +80,11 @@
         },
         {
           "rank": 9,
-          "title": "Harry Potter and the Prisoner of Azkaban"
+          "title": "The Huntsman"
         },
         {
           "rank": 10,
-          "title": "We Live in Time"
+          "title": "Harry Potter and the Prisoner of Azkaban"
         }
       ]
     },
@@ -92,15 +92,15 @@
       "series": [
         {
           "rank": 1,
-          "title": "City of God: The Fight Rages On"
-        },
-        {
-          "rank": 2,
           "title": "Aeroporto: Área Restrita"
         },
         {
+          "rank": 2,
+          "title": "City of God: The Fight Rages On"
+        },
+        {
           "rank": 3,
-          "title": "The Gilded Age"
+          "title": "La Promesa"
         },
         {
           "rank": 4,
@@ -108,7 +108,7 @@
         },
         {
           "rank": 5,
-          "title": "La Promesa"
+          "title": "The Gilded Age"
         },
         {
           "rank": 6,
@@ -120,11 +120,11 @@
         },
         {
           "rank": 8,
-          "title": "Georgie & Mandy's First Marriage"
+          "title": "Mother"
         },
         {
           "rank": 9,
-          "title": "Mother"
+          "title": "Georgie & Mandy's First Marriage"
         },
         {
           "rank": 10,
@@ -146,27 +146,27 @@
         },
         {
           "rank": 4,
-          "title": "The Mule"
-        },
-        {
-          "rank": 5,
           "title": "The Legend of Tarzan"
         },
         {
-          "rank": 6,
-          "title": "O Advogado de Deus"
+          "rank": 5,
+          "title": "Triple 9"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Matilda"
         },
         {
+          "rank": 7,
+          "title": "The Mule"
+        },
+        {
           "rank": 8,
-          "title": "The Good Liar"
+          "title": "O Advogado de Deus"
         },
         {
           "rank": 9,
-          "title": "Armored"
+          "title": "Blade Runner 2049"
         },
         {
           "rank": 10,
@@ -182,7 +182,7 @@
         },
         {
           "rank": 2,
-          "title": "MobLand"
+          "title": "South Park"
         },
         {
           "rank": 3,
@@ -190,7 +190,7 @@
         },
         {
           "rank": 4,
-          "title": "South Park"
+          "title": "MobLand"
         },
         {
           "rank": 5,
@@ -198,19 +198,19 @@
         },
         {
           "rank": 6,
-          "title": "Marshals"
-        },
-        {
-          "rank": 7,
           "title": "Ghosts"
         },
         {
+          "rank": 7,
+          "title": "SpongeBob SquarePants"
+        },
+        {
           "rank": 8,
-          "title": "Yellowstone"
+          "title": "Marshals"
         },
         {
           "rank": 9,
-          "title": "Criminal Minds"
+          "title": "Yellowstone"
         },
         {
           "rank": 10,
@@ -224,7 +224,7 @@
         },
         {
           "rank": 2,
-          "title": "Off the Grid"
+          "title": "Drive Through Fire"
         },
         {
           "rank": 3,
@@ -232,7 +232,7 @@
         },
         {
           "rank": 4,
-          "title": "Drive Through Fire"
+          "title": "Off the Grid"
         },
         {
           "rank": 5,
@@ -240,23 +240,23 @@
         },
         {
           "rank": 6,
-          "title": "Hungria: A Escolha de um Sonho"
-        },
-        {
-          "rank": 7,
-          "title": "The Bayou"
-        },
-        {
-          "rank": 8,
-          "title": "Top Gun: Maverick"
-        },
-        {
-          "rank": 9,
           "title": "Exit Protocol"
         },
         {
-          "rank": 10,
+          "rank": 7,
           "title": "A Score to Settle"
+        },
+        {
+          "rank": 8,
+          "title": "Hungria: A Escolha de um Sonho"
+        },
+        {
+          "rank": 9,
+          "title": "The Last Stand of Ellen Cole"
+        },
+        {
+          "rank": 10,
+          "title": "Top Gun: Maverick"
         }
       ]
     },
@@ -272,15 +272,15 @@
         },
         {
           "rank": 3,
-          "title": "Stick"
-        },
-        {
-          "rank": 4,
           "title": "Ted Lasso"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Silo"
+        },
+        {
+          "rank": 5,
+          "title": "Stick"
         },
         {
           "rank": 6,
@@ -310,15 +310,15 @@
         },
         {
           "rank": 2,
-          "title": "Sunshine"
+          "title": "A Charlie Brown Thanksgiving"
         },
         {
           "rank": 3,
-          "title": "Mayday"
+          "title": "Sunshine"
         },
         {
           "rank": 4,
-          "title": "Being Heumann"
+          "title": "Mayday"
         },
         {
           "rank": 5,
@@ -326,23 +326,23 @@
         },
         {
           "rank": 6,
-          "title": "Tenzing"
+          "title": "Being Heumann"
         },
         {
           "rank": 7,
-          "title": "Matchbox"
+          "title": "Tenzing"
         },
         {
           "rank": 8,
-          "title": "The Gorge"
-        },
-        {
-          "rank": 9,
           "title": "Snoopy Presents: 12 Days of Snoopy"
         },
         {
+          "rank": 9,
+          "title": "Matchbox"
+        },
+        {
           "rank": 10,
-          "title": "Argylle"
+          "title": "The Gorge"
         }
       ]
     },
@@ -350,43 +350,43 @@
       "series": [
         {
           "rank": 1,
-          "title": "Percy Jackson and the Olympians"
-        },
-        {
-          "rank": 2,
           "title": "The Remarried Empress"
         },
         {
+          "rank": 2,
+          "title": "Percy Jackson and the Olympians"
+        },
+        {
           "rank": 3,
-          "title": "VisionQuest"
+          "title": "Merry Berry Love"
         },
         {
           "rank": 4,
-          "title": "Loki"
+          "title": "VisionQuest"
         },
         {
           "rank": 5,
-          "title": "The Voice Brasil"
+          "title": "All's Fair"
         },
         {
           "rank": 6,
-          "title": "Phony"
+          "title": "Loki"
         },
         {
           "rank": 7,
-          "title": "Outlander: Blood of My Blood"
-        },
-        {
-          "rank": 8,
           "title": "Perfect Crown"
         },
         {
+          "rank": 8,
+          "title": "The Voice Brasil"
+        },
+        {
           "rank": 9,
-          "title": "Coven Academy"
+          "title": "Phony"
         },
         {
           "rank": 10,
-          "title": "All's Fair"
+          "title": "Outlander: Blood of My Blood"
         }
       ],
       "movies": [
@@ -396,11 +396,11 @@
         },
         {
           "rank": 2,
-          "title": "Moana"
+          "title": "Toy Story 5"
         },
         {
           "rank": 3,
-          "title": "Toy Story 5"
+          "title": "Moana"
         },
         {
           "rank": 4,
@@ -428,7 +428,7 @@
         },
         {
           "rank": 10,
-          "title": "Rio 2"
+          "title": "X2: X-Men United"
         }
       ]
     }
